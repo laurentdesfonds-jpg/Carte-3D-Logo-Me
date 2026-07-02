@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+    <title>3D Card Effect</title>
+  </head>
+  
+  <body>
+  
+    <div class="container">
+
+      <div class="card">
+        <div class="contentCard">
+          <img src="https://static.wixstatic.com/media/70db71_3edc94c126f944dd8deabf17c5cc29b1~mv2.jpg" alt="card"/>
+        </div>
+		<div class="glow">
+			<div class="gold">
+			  <img src="https://static.wixstatic.com/media/70db71_2ca79c013348476b9c2273dc2e4b95e3~mv2.png" alt="dorrure"/>
+			</div>
+			<div class="glow2">
+				<div class="gold2">
+					<img src="https://static.wixstatic.com/media/70db71_e73190d4ca2249bc87e15e43a10d4c1e~mv2.png" alt="vernis selectif"/>
+				</div>
+			</div>
+		</div>
+
+
+      </div>
+	  
+    </div>
+	<script src="./script.js"></script>
+  </body>
+</html>
