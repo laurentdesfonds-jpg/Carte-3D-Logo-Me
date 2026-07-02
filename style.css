@@ -1,5 +1,5 @@
 :root {
-  --width: 80vw;
+  --width: clamp(260px, 80vw, 400px);
   --height: calc(var(--width) * 1.4);
 }
 
