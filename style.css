@@ -1,5 +1,5 @@
 :root {
-  --width: 80%;
+  --width: 80vw;
   --height: calc(var(--width) * 1.4);
 }
 
